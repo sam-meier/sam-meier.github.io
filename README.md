@@ -10,7 +10,9 @@ This project was made for the purposes of understanding how to consolidate, use,
 
 
 
-~~~~~~~Lastly, if your project is deployed, include a link to the deployed application here.~~~~~~~
+https://sam-meier.github.io/
+
+
 
 
 ## Installation
@@ -19,25 +21,18 @@ This is a single page "website" and it does not require installation.
 
 
 
-
-
-
-
-
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+The one-page site is simple and its only interactive features are the 3 links on the Navigation bar, they take you to their respectively named sections.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
+Maybe Screenshots??
 ```md
-![alt text](assets/images/screenshot.png)
+![top screenshot](/final/assets/images/Screenshot1.png)
 ```
-
-
-
-
-
+```md
+![bottom screenshot](/final/assets/images/Screenshot2.png)
+```
 
 
 
