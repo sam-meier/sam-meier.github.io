@@ -9,7 +9,7 @@ This simple page does the following:
 - Input is locally saved
 
 
-[No deployed page](link).
+[Deployed Page](https://sam-meier.github.io/).
 
 
 ## Installation
