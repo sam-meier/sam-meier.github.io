@@ -19,7 +19,7 @@ Previous searches are saved in localStorage and the 5 most recent searches are a
 * Moment.js API
 
 
-![screenshot](assets/images/hw6 screenie.png)
+![screenshot](assets/images/hw6_screenie.png)
 
 ## Contribution
 Made by Sam Meier
